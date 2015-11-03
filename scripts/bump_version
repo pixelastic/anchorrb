@@ -30,7 +30,7 @@ class BumpVersion
   end
 
   def run
-    old_version = AlgoliaSearchJekyllVersion.to_s
+    old_version = AnchorRbVersion.to_s
     new_version = bump(old_version, @type)
 
     script_dir = File.expand_path(File.dirname(__FILE__))
@@ -42,6 +42,5 @@ class BumpVersion
     `git add #{file}`
     `git commit -m "chore(bump): Version bump to #{new_version}"`
   end
-
 end
 BumpVersion.new(*ARGV).run

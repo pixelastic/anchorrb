@@ -7,4 +7,3 @@ end
 ENV['COVERAGE'] && SimpleCov.start do
   add_filter '/.rvm/'
 end
-
