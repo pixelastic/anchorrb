@@ -16,8 +16,8 @@ AnchorRb.convert(' ⚡ Don't forget to turn off the lights!')
 ```
 
 
-[1]: https://badge.fury.io/rb/algoliasearch-jekyll.svg
-[2]: https://travis-ci.org/algolia/algoliasearch-jekyll.svg?branch=master
-[3]: https://coveralls.io/repos/algolia/algoliasearch-jekyll/badge.svg?branch=master&service=github
-[4]: https://codeclimate.com/github/algolia/algoliasearch-jekyll/badges/gpa.svg
+[1]: https://badge.fury.io/rb/anchorrb.svg
+[2]: https://travis-ci.org/pixelastic/anchorrb.svg?branch=master
+[3]: https://coveralls.io/repos/pixelastic/anchorrb/badge.svg?branch=master&service=github
+[4]: https://codeclimate.com/github/pixelastic/anchorrb/badges/gpa.svg
 [5]: https://github.com/bryanbraun/anchorjs
